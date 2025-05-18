@@ -15,11 +15,6 @@ EduTutor AI is a comprehensive educational platform that leverages artificial in
 - Practice exercises
 - Content analysis and summarization
 
-### 🎤 Speech & Translation
-- Text-to-speech for lessons and content
-- Speech-to-text for voice input
-- Multi-language support with automatic translation
-
 ### 📊 Smart Dashboard
 - Learning progress tracking
 - Quiz performance analytics
@@ -48,11 +43,6 @@ EduTutor AI is a comprehensive educational platform that leverages artificial in
 
 ### Database
 - SQLite
-
-### Speech & Translation
-- Google Speech Recognition
-- gTTS
-- Hugging Face translation models
 
 ## 🚀 Getting Started
 
@@ -119,7 +109,6 @@ The application can be configured through:
 Detailed documentation for each component:
 - [Authentication System](docs/auth.md)
 - [AI Teaching Assistant](docs/ai_teaching.md)
-- [Speech & Translation](docs/speech_translation.md)
 - [Dashboard & Analytics](docs/dashboard.md)
 
 ## 🤝 Contributing
