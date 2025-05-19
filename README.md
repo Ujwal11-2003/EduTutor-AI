@@ -2,6 +2,7 @@
 
 EduTutor AI is a comprehensive educational platform that leverages artificial intelligence to provide personalized learning experiences. The platform features a modern, responsive interface and includes various tools for learning, practice, and progress tracking.
 ![image alt](https://github.com/Ujwal11-2003/EduTutor-AI/blob/main/Screenshot%202025-05-18%20194138.png?raw=true)
+![image alt](https://github.com/Ujwal11-2003/EduTutor-AI/blob/main/Screenshot%202025-05-18%20194355.png?raw=true)   
 
 ## 🌟 Features
 
