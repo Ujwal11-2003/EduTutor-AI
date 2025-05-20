@@ -1,3 +1,8 @@
+
+##https://www.credly.com/badges/80414233-4f0c-4382-9540-0e9aca5bfd9a/public_url
+##https://www.credly.com/badges/f01a336c-56d7-41b1-9c2a-bc08f323f0f8/public_url
+##https://www.credly.com/badges/c3d28fc4-f6e0-429b-8013-717bba1ec6e2/public_url
+
 # EduTutor AI - Modern AI-Powered Learning Platform
 
 EduTutor AI is a comprehensive educational platform that leverages artificial intelligence to provide personalized learning experiences. The platform features a modern, responsive interface and includes various tools for learning, practice, and progress tracking.
