@@ -272,8 +272,8 @@ def show_main_ui():
     with st.container():
         selected = option_menu(
             menu_title=None,
-            options=["Home", "Learn", "Quiz", "Practice", "Quiz Generator", "Video Recommendations", "Dashboard", "Settings"],
-            icons=["house", "book", "question-square", "pencil-square", "lightbulb", "youtube", "graph-up", "gear"],
+            options=["Home", "Learn", "Quiz", "Practice", "Video Recommendations", "Dashboard", "Settings"],  # Removed "Quiz Generator"
+            icons=["house", "book", "question-square", "pencil-square", "youtube", "graph-up", "gear"],       # Removed corresponding icon
             default_index=0,
             orientation="horizontal",
             styles={
@@ -305,8 +305,6 @@ def show_main_ui():
         show_quiz_page()
     elif selected == "Practice":
         show_practice_page()
-    elif selected == "Quiz Generator":
-        show_quiz_generator_page()
     elif selected == "Video Recommendations":
         show_video_recommendations_page()
     elif selected == "Dashboard":
